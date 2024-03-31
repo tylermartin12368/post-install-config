@@ -47,6 +47,6 @@ Service Level Agreements (SLA) in OSticket is created to provide an amount of ti
 ![20240319_004457](https://github.com/tylermartin12368/post-install-config/assets/161632103/a3736925-5969-46f6-97ce-0f8672973acc)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In OSticket we can create Help Topics for Users. Help Topics help Users explain the issue that they are experiencing. It also helps Agents get a grasp of the problem and be able to come up with solutions quickly to resolve the matter. A User could be experiencing a problem with their password. They can select "Password Reset" and write a description saying that the password that they are trying to login with is not working. The Agent will see this and be able to quickly resolve this issue by giving the User a temporary password and allow them to create a new password when logged backed in. 
 </p>
 <br />
