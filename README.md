@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Create Roles, Departments, and Teams
 - Create Agents and Users
-- Allow Users to create tickets
+- Allow Anyone to create tickets
 - Create System Level Agreement (SLA)
 - Create Help Topics
 
@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![20240319_001920](https://github.com/tylermartin12368/post-install-config/assets/161632103/9a74309d-a6bf-4695-a114-1b66200814fc)
 </p>
 <p>
-In OSticket we can create roles, departments, and teams. We will have Agents(workers) and Users (customers) in the system. Users will have access to Support Center where they can create tickets for any issues being experienced. Agents will be assigned to a role, department, and team and will have access to working on tickets. Roles are created to give certain permissions to an Agent. One role could have access to certain permissions that other roles may not have like assigning tickets or trasfering tickets. Departments are created to have a group of Agents in them to solve tickets on a specific issue. Lets say a ticket was placed about a networking issue, then the networking department would be responsible for solving the issue since they will have the experiece to tackle the problem. Teams are created to allow Agents to be pulled from any department and have them work on an issue. We can have Agents placed in Level 1 Support or Level 2 Support for example and Level 2 in this case are Agents who may have more experience and can handle bigger issues that may appear.   
+In OSticket we can create roles, departments, and teams. We will have Agents(workers) and Users (customers) in the system. Users will have access to Support Center where they can create tickets for any issues being experienced. To make sure anyone can have the ability to create tickets, go to Admin Panel, Settings, and then User Settings and make sure the box is unchecked for Registration Required. Agents will be assigned to a role, department, and team and will have access to working on tickets. Roles are created to give certain permissions to an Agent. One role could have access to certain permissions that other roles may not have like assigning tickets or trasfering tickets. Departments are created to have a group of Agents in them to solve tickets on a specific issue. Lets say a ticket was placed about a networking issue, then the networking department would be responsible for solving the issue since they will have the experiece to tackle the problem. Teams are created to allow Agents to be pulled from any department and have them work on an issue. We can have Agents placed in Level 1 Support or Level 2 Support for example and Level 2 in this case are Agents who may have more experience and can handle bigger issues that may appear.   
 </p>
 <br />
 
