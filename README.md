@@ -40,7 +40,7 @@ In OSticket we can create roles, departments, and teams. We will have Agents(wor
 ![20240319_003907](https://github.com/tylermartin12368/post-install-config/assets/161632103/e4c9a9a7-db39-4b15-8b6f-da73d99760e0)
 </p>
 <p>
-Service Level Agreements (SLA) in OSticket is created to provide an amount of time the Admin expects the ticket to be resolved. Let's say we have a ticket that comes in on Saturday at 11pm and its business impacting. The ticket would be placed on Sev-A and in this case and will need to resolved on Saturday at 12pm. Service Level Agreements will help us understand what tickets should be priotized first, so problems can be resolved in the amount of time that is being provided.
+Service Level Agreements (SLA) in OSticket is created to provide an amount of time the Admin expects the ticket to be resolved. Let's say we have a ticket that comes in on Saturday at 11pm and its business impacting. The ticket would be placed on Sev-A and in this case and will need to resolved on Saturday at 12pm. Service Level Agreements will help us understand what tickets should be priotized first, so problems can be resolved effeciently and in the amount of time that is being provided.
 </p>
 <br />
 
